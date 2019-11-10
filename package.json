@@ -1,0 +1,22 @@
+{
+  "name": "budgety",
+  "version": "1.0.0",
+  "description": "budget app that was made with es5 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jagbenu1/Budgety.git"
+  },
+  "keywords": [
+    "budget"
+  ],
+  "author": "Jacques Agbenu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jagbenu1/Budgety/issues"
+  },
+  "homepage": "https://github.com/Jagbenu1/Budgety#readme"
+}
